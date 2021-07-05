@@ -24,7 +24,7 @@ object Constants {
 //      "https://play.google.com/store/apps/details?id=com.teamff.music.playmusic"
       "http://apps.samsung.com/appquery/appDetail.as?appId=com.teamff.music.playmusic"
     const val TRANSLATE = "https://github.com/h4h13/RetroMusicPlayer"
-    const val GITHUB_PROJECT = "https://github.com/anubhav17/MusicPlayerApp"
+    const val GITHUB_PROJECT = "https://github.com/anubhav17/Music-Player-Appeal"
     const val TELEGRAM_CHANGE_LOG = "https://t.me/retromusiclog"
     const val USER_PROFILE = "profile.jpg"
     const val USER_BANNER = "banner.jpg"
